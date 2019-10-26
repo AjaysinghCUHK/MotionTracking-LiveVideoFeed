@@ -7,5 +7,6 @@ When people are detected, a red rectangular box is applied on them.
 
 Installation:- 
 	1) Open CV
+
 		- https://docs.opencv.org/2.4/doc/tutorials/introduction/windows_visual_studio_Opencv/windows_visual_studio_Opencv.html#windows-visual-studio-how-to
 		- https://docs.opencv.org/2.4/doc/tutorials/introduction/windows_install/windows_install.html#windows-installation
